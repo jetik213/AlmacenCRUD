@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaPresentacion\\CapaPresentacion.csproj": {}
+  },
+  "projects": {
+    "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaDatos\\CapaDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaDatos\\CapaDatos.csproj",
+        "projectName": "CapaDatos",
+        "projectPath": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaDatos\\CapaDatos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaEntidades\\CapaEntidades.csproj": {
+                "projectPath": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaEntidades\\CapaEntidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaEntidades\\CapaEntidades.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaEntidades\\CapaEntidades.csproj",
+        "projectName": "CapaEntidades",
+        "projectPath": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaEntidades\\CapaEntidades.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaNegocio\\CapaNegocio.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaNegocio\\CapaNegocio.csproj",
+        "projectName": "CapaNegocio",
+        "projectPath": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaNegocio\\CapaNegocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaDatos\\CapaDatos.csproj": {
+                "projectPath": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaDatos\\CapaDatos.csproj"
+              },
+              "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaEntidades\\CapaEntidades.csproj": {
+                "projectPath": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaEntidades\\CapaEntidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaPresentacion\\CapaPresentacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaPresentacion\\CapaPresentacion.csproj",
+        "projectName": "CapaPresentacion",
+        "projectPath": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaPresentacion\\CapaPresentacion.csproj",
+        "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
+        "outputPath": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaPresentacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Computer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaEntidades\\CapaEntidades.csproj": {
+                "projectPath": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaEntidades\\CapaEntidades.csproj"
+              },
+              "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaNegocio\\CapaNegocio.csproj": {
+                "projectPath": "D:\\Google Drive\\CIBERTEC\\CICLO 03\\POO I (C#)\\PROYECTO\\REPO\\ProyectoAlmacen\\CapaNegocio\\CapaNegocio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.1484.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
